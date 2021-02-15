@@ -34,6 +34,20 @@
       "dosis":"100 mg",
       "contraindicaciones":"Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica, Antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante, Insuficiencia renal severa, Tercer trimestre de la gestación",
       "uso":"Anti-inflamatorio"
+    },
+    {
+      "id":5,
+      "nombre":"ACETILCISTEINA",
+      "dosis":"200 mg, 600 mg",
+      "contraindicaciones":"Nauseas, vómito, fiebre, somnolencia, urticaria, dolor de cabeza",
+      "uso":"Alivio sintomático de las afecciones del tracto respiratorio"
+    },
+    {
+      "id":6,
+      "nombre":"ACIDO ACETILSALICILICO",
+      "dosis":"300 mg, 500 mg",
+      "contraindicaciones":"contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
+      "uso":"Analgésico, anti-inflamatorio, anti-pirético"
     }
   ]
 }

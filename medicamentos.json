@@ -32,7 +32,7 @@
       "id":4,
       "nombre":"ACECLOFENACO",
       "dosis":"100 mg",
-      "contraindicaciones":"Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica, Antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante, Insuficiencia renal severa, Tercer trimestre de la gestación",
+      "contraindicaciones":"Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica, antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante, insuficiencia renal severa, tercer trimestre de la gestación",
       "uso":"Anti-inflamatorio"
     },
     {
@@ -46,14 +46,14 @@
       "id":6,
       "nombre":"ACIDO ACETILSALICILICO",
       "dosis":"300 mg, 500 mg",
-      "contraindicaciones":"contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
+      "contraindicaciones":"Contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
       "uso":"Analgésico, anti-inflamatorio, antipirético"
     },
     {
       "id":7,
       "nombre":"ACIDO ALENDRONICO",
       "dosis":"70 mg",
-      "contraindicaciones":"Anomalías esofágicas, Hipersensibilidad al ácido alendrónico o a alguno de los excipientes, Hipocalcemia",
+      "contraindicaciones":"Anomalías esofágicas, hipersensibilidad al ácido alendrónico o a alguno de los excipientes, hipocalcemia",
       "uso":"Ayuda regenerar el hueso"
     },
     {
@@ -67,7 +67,7 @@
       "id":9,
       "nombre":"ANTENOLOL",
       "dosis":"50 mg, 100 mg",
-      "contraindicaciones":"Bradicardia, Shock cardiogenico, Hipotencion sintomatica",
+      "contraindicaciones":"Bradicardia, Shock cardiogenico, hipotensión sintomática",
       "uso":"Tratamiento de hipertensión"
     }
   ]

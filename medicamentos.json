@@ -48,6 +48,27 @@
       "dosis":"300 mg, 500 mg",
       "contraindicaciones":"contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
       "uso":"Analgésico, anti-inflamatorio, anti-pirético"
+    },
+    {
+      "id":7,
+      "nombre":"ACIDO ALENDRONICO",
+      "dosis":"70 mg",
+      "contraindicaciones":"Anomalías esofágicas, Hipersensibilidad al ácido alendrónico o a alguno de los excipientes, Hipocalcemia",
+      "uso":"Ayuda regenerar el hueso"
+    },
+    {
+      "id":8,
+      "nombre":"ASS",
+      "dosis":"100 mg, 500 mg",
+      "contraindicaciones":"Ulcera gastroduodenal aguda, molestias gástricas de repetición, Diátesis hemorrágica",
+      "uso":"Analgesico, Antiinflamatorio, Antipiretico"
+    },
+    {
+      "id":9,
+      "nombre":"Antenolol",
+      "dosis":"50 mg, 100 mg",
+      "contraindicaciones":"Bradicardia, Shock cardiogenico, Hipotencion sintomatica",
+      "uso":"Tratamiento de hipertencion"
     }
   ]
 }

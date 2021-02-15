@@ -1,80 +1,72 @@
 {
-"medicamento":[
-{
-"id":0,
-"nombre":"AZITROCINA",
-"dosis":"100 mgG ",
-"contraindicaciones":"CONTRAINDICADO EN PACIENTES CON HIPERSENCIBILIDAD A LA ACITROCINA",
-"uso":"TRATAMIENTO DE INFECCIONES"
-},
-{
-"id":1,
-"nombre":"ABILIFY",
-"dosis":["10 mg","15 mg","30 mg" ],
-"contraindicaciones":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
-"uso":"pacientes con esquizofrenia y trastorno bipolar"
-},
-{
-"id":2,
-"nombre":"ABIMOX",
-"dosis":["5 mg"],
-"contraindicaciones":"dolor en el ojo, irritación en el ojo",
-"uso":"iNFECCIONES EN LOS OJOS, CONJUNTIVITIS"
-},
-{
-"id":3,
-"nombre":"ACARBOSA",
-"dosis":["50 mg"],
-"contraindicaciones":"alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
-"uso":"TRATAMIENTO DE LA DIABETIS TIPO 2"
-},
-{
-"id":4,
-"nombre":"ACECLOFENACO",
-"dosis":["100 mg"],
-"contraindicaciones":["Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica",
-"Antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante",
-"Insuficiencia renal severa","Tercer trimestre de la gestación"],
-"uso":"Antiinflamatorio"
-},
-{
-"id":5,
-"nombre":"ACETILCISTEINA",
-"dosis":["200 mg", "600 mg"],
-"contraindicaciones":["NAUCIAS","VOMITO","FIEBRE","SOMNOLENCIA","URTICARIA","DOLOR DE CABEZA"],
-"uso":"Alivio sintomático de las afecciones del tracto respiratorio"
-},
-{
-"id":6,
-"nombre":"ACIDO ACETILSALICILICO",
-"dosis":["300 mg", "500 mg"],
-"contraindicaciones":["contraindicado cuando existe hipersensibilidad a la fórmula",
-"contraindicado en hemofilia","úlcera péptica activa"],
-"uso":["ANALGESICO", "ANTIINFLAMATORIO","ANTIPIRETICO"]
-},
-{
-"id":7,
-"nombre":"ACIDO ALENDRONICO",
-"dosis":["70 mg"],
-"contraindicaciones":["Anomalías esofágicas","Hipersensibilidad al ácido alendrónico o a alguno de los excipientes",
-"Hipocalcemia"],
-"uso":[" Ayuda regenerar el hueso"]
-},
-{
-"id":8,
-"nombre":"ASS",
-"dosis":["100 mg","500 mg"],
-"contraindicaciones":["Ulcera gastroduodenal aguda","molestias gástricas de repetición",
-"Diátesis hemorrágica"],
-"uso":["Analgesico","Antiinflamatorio", "Antipiretico"]
-},
-{
-"id":9,
-"nombre":"Antenolol",
-"dosis":["50 mg","100 mg"],
-"contraindicaciones":["Bradicardia","Shock cardiogenico",
-"Hipotencion sintomatica"],
-"uso":["Tratamiento de hipertencion"]
-}
-]
+  "medicamento":
+  [
+    {
+      "id":0,
+      "nombre":"AZITROCINA",
+      "dosis":"100 mgG ",
+      "contraindicaciones":"CONTRAINDICADO EN PACIENTES CON HIPERSENCIBILIDAD A LA ACITROCINA",
+      "uso":"TRATAMIENTO DE INFECCIONES"
+    },{
+      "id":1,
+      "nombre":"ABILIFY",
+      "dosis":["10 mg","15 mg","30 mg" ],
+      "contraindicaciones":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
+      "uso":"pacientes con esquizofrenia y trastorno bipolar"
+    },{
+      "id":2,
+      "nombre":"ABIMOX",
+      "dosis":["5 mg"],
+      "contraindicaciones":"dolor en el ojo, irritación en el ojo",
+      "uso":"iNFECCIONES EN LOS OJOS, CONJUNTIVITIS"
+    },{
+      "id":3,
+      "nombre":"ACARBOSA",
+      "dosis":["50 mg"],
+      "contraindicaciones":"alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
+      "uso":"TRATAMIENTO DE LA DIABETIS TIPO 2"
+    },{
+      "id":4,
+      "nombre":"ACECLOFENACO",
+      "dosis":["100 mg"],
+      "contraindicaciones":["Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica",
+                            "Antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante",
+                            "Insuficiencia renal severa","Tercer trimestre de la gestación"],
+      "uso":"Antiinflamatorio"
+    },{
+      "id":5,
+      "nombre":"ACETILCISTEINA",
+      "dosis":["200 mg", "600 mg"],
+      "contraindicaciones":["NAUCIAS","VOMITO","FIEBRE","SOMNOLENCIA","URTICARIA","DOLOR DE CABEZA"],
+      "uso":"Alivio sintomático de las afecciones del tracto respiratorio"
+    },{
+      "id":6,
+      "nombre":"ACIDO ACETILSALICILICO",
+      "dosis":["300 mg", "500 mg"],
+      "contraindicaciones":["contraindicado cuando existe hipersensibilidad a la fórmula",
+                            "contraindicado en hemofilia","úlcera péptica activa"],
+      "uso":["ANALGESICO", "ANTIINFLAMATORIO","ANTIPIRETICO"]
+    },{
+      "id":7,
+      "nombre":"ACIDO ALENDRONICO",
+      "dosis":["70 mg"],
+      "contraindicaciones":["Anomalías esofágicas","Hipersensibilidad al ácido alendrónico o a alguno de los excipientes",
+                            "Hipocalcemia"],
+      "uso":[" Ayuda regenerar el hueso"]
+    },{
+      "id":8,
+      "nombre":"ASS",
+      "dosis":["100 mg","500 mg"],
+      "contraindicaciones":["Ulcera gastroduodenal aguda","molestias gástricas de repetición",
+                            "Diátesis hemorrágica"],
+      "uso":["Analgesico","Antiinflamatorio", "Antipiretico"]
+    },{
+      "id":9,
+      "nombre":"Antenolol",
+      "dosis":["50 mg","100 mg"],
+      "contraindicaciones":["Bradicardia","Shock cardiogenico",
+                            "Hipotencion sintomatica"],
+      "uso":["Tratamiento de hipertencion"]
+    }
+  ]
 }

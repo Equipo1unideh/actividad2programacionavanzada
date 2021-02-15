@@ -1,0 +1,80 @@
+{
+"MEDICAMENTO":[
+{
+"ID":"0",
+"NOMBRE":"AZITROCINA",
+"DOSIS":"100 mgG ",
+"CONTRAINDICACIONES":"CONTRAINDICADO EN PACIENTES CON HIPERSENCIBILIDAD A LA ACITROCINA",
+"USO":"TRATAMIENTO DE INFECCIONES"
+},
+{
+"ID":"1",
+"NOMBRE":"ABILIFY",
+"DOSIS":["10 mg","15 mg","30 mg" ],
+"CONTRAINDICACIONES":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
+"USO":"pacientes con esquizofrenia y trastorno bipolar"
+},
+{
+"ID":"2",
+"NOMBRE":"ABIMOX",
+"DOSIS":["5 mg"],
+"CONTRAINDICACIONES":"dolor en el ojo, irritación en el ojo",
+"USO":"iNFECCIONES EN LOS OJOS, CONJUNTIVITIS"
+},
+{
+"ID":"3",
+"NOMBRE":"ACARBOSA",
+"DOSIS":["50 mg"],
+"CONTRAINDICACIONES":"alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
+"USO":"TRATAMIENTO DE LA DIABETIS TIPO 2"
+},
+{
+"ID":"4",
+"NOMBRE":"ACECLOFENACO",
+"DOSIS":["100 mg"],
+"CONTRAINDICACIONES":["Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica",
+"Antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante",
+"Insuficiencia renal severa","Tercer trimestre de la gestación"],
+"uso":"Antiinflamatorio"
+},
+{
+"ID":"5",
+"NOMBRE":"ACETILCISTEINA",
+"DOSIS":["200 mg", "600 mg"],
+"CONTRAINDICACIONES":["NAUCIAS","VOMITO","FIEBRE","SOMNOLENCIA","URTICARIA","DOLOR DE CABEZA"],
+"USO":"Alivio sintomático de las afecciones del tracto respiratorio"
+},
+{
+"ID":"6",
+"NOMBRE":"ACIDO ACETILSALICILICO",
+"DOSIS":["300 mg", "500 mg"],
+"CONTRAINDICACIONES":["contraindicado cuando existe hipersensibilidad a la fórmula",
+"contraindicado en hemofilia","úlcera péptica activa"],
+"USO":["ANALGESICO", "ANTIINFLAMATORIO","ANTIPIRETICO"]
+},
+{
+"ID":"7",
+"NOMBRE":"ACIDO ALENDRONICO",
+"DOSIS":["70 mg"],
+"CONTRAINDICACIONES":["Anomalías esofágicas","Hipersensibilidad al ácido alendrónico o a alguno de los excipientes",
+"Hipocalcemia"],
+"USO":[" Ayuda regenerar el hueso"]
+},
+{
+"ID":"8",
+"NOMBRE":"ASS",
+"DOSIS":["100 mg","500 mg"],
+"CONTRAINDICACIONES":["Ulcera gastroduodenal aguda","molestias gástricas de repetición",
+"Diátesis hemorrágica"],
+"USO":["Analgesico","Antiinflamatorio", "Antipiretico"]
+},
+{
+"ID":"9",
+"NOMBRE":"Antenolol",
+"DOSIS":["50 mg","100 mg"],
+"CONTRAINDICACIONES":["Bradicardia","Shock cardiogenico",
+"Hipotencion sintomatica"],
+"USO":["Tratamiento de hipertencion"]
+}
+]
+}

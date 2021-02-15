@@ -47,7 +47,7 @@
       "nombre":"ACIDO ACETILSALICILICO",
       "dosis":"300 mg, 500 mg",
       "contraindicaciones":"contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
-      "uso":"Analgésico, anti-inflamatorio, anti-pirético"
+      "uso":"Analgésico, anti-inflamatorio, antipirético"
     },
     {
       "id":7,
@@ -61,14 +61,14 @@
       "nombre":"ASS",
       "dosis":"100 mg, 500 mg",
       "contraindicaciones":"Ulcera gastroduodenal aguda, molestias gástricas de repetición, Diátesis hemorrágica",
-      "uso":"Analgesico, Antiinflamatorio, Antipiretico"
+      "uso":"Analgesico, Anti-inflamatorio, Antipirético"
     },
     {
       "id":9,
       "nombre":"ANTENOLOL",
       "dosis":"50 mg, 100 mg",
       "contraindicaciones":"Bradicardia, Shock cardiogenico, Hipotencion sintomatica",
-      "uso":"Tratamiento de hipertencion"
+      "uso":"Tratamiento de hipertensión"
     }
   ]
 }

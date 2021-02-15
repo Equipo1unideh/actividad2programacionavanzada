@@ -5,22 +5,28 @@
       "id":0,
       "nombre":"AZITROCINA",
       "dosis":"100 mg",
-      "contraindicaciones":"CONTRAINDICADO EN PACIENTES CON HIPERSENCIBILIDAD A LA ACITROCINA",
-      "uso":"TRATAMIENTO DE INFECCIONES"
+      "contraindicaciones":"Contraindicado en pacientes con hipersensibilidad a la acitrocina",
+      "uso":"Tratamiento de infecciones"
     },
     {
       "id":1,
       "nombre":"ABILIFY",
       "dosis":"10 mg, 15 mg, 30 mg",
       "contraindicaciones":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
-      "uso":"pacientes con esquizofrenia y trastorno bipolar"
+      "uso":"Pacientes con esquizofrenia y trastorno bipolar"
     },
     {
       "id":2,
       "nombre":"ABIMOX",
       "dosis":"5 mg",
-      "contraindicaciones":"dolor en el ojo, irritación en el ojo",
-      "uso":"INFECCIONES EN LOS OJOS, CONJUNTIVITIS"
+      "contraindicaciones":"Dolor en el ojo, irritación en el ojo",
+      "uso":"Infecciones en los ojos, conjuntivitis"
+    },{
+      "id":3,
+      "nombre":"ACARBOSA",
+      "dosis":"50 mg",
+      "contraindicaciones":"Alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
+      "uso":"Tratamiento de la diabetes tipo dos"      
     }
   ]
 }

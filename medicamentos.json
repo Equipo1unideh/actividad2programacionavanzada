@@ -26,7 +26,7 @@
       "uso":"Infecciones en los ojos, conjuntivitis"
     },{
       "id":3,
-      "img":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLemfm_ktDl50VSNvYqN6k6AH12PzX1A6JJg&usqp=CAU",
       "nombre":"ACARBOSA",
       "dosis":"50 mg",
       "contraindicaciones":"Alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
@@ -34,7 +34,7 @@
     },
     {
       "id":4,
-      "img":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV16dkNzxOTdEjo0N57WmzjlylwFWYk4qVxA&usqp=CAU",
       "nombre":"ACECLOFENACO",
       "dosis":"100 mg",
       "contraindicaciones":"Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica, antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante, insuficiencia renal severa, tercer trimestre de la gestación",
@@ -42,7 +42,7 @@
     },
     {
       "id":5,
-      "img":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bJubPaFLYdjuWjS03soWdCynN8poFvPZuA&usqp=CAU",
       "nombre":"ACETILCISTEINA",
       "dosis":"200 mg, 600 mg",
       "contraindicaciones":"Nauseas, vómito, fiebre, somnolencia, urticaria, dolor de cabeza",

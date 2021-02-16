@@ -11,7 +11,7 @@
     },
     {
       "id":1,
-      "img":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORTdEpfxP_Z-KZEUGPuW9Jat7xuHQyoG54Q&usqp=CAU",
       "nombre":"ABILIFY",
       "dosis":"10 mg, 15 mg, 30 mg",
       "contraindicaciones":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
@@ -19,7 +19,7 @@
     },
     {
       "id":2,
-      "img":"",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToimysQzThT8PTyYNOSVhIu5iAr0sIgGeBJg&usqp=CAU",
       "nombre":"ABIMOX",
       "dosis":"5 mg",
       "contraindicaciones":"Dolor en el ojo, irritación en el ojo",

@@ -3,13 +3,15 @@
   [
     {
       "id":0,
-      "nombre":"AZITROCINA",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIgqul2j20Avb5UMsEdlPcqCS2PJaPMk_Rg&usqp=CAU",
+      "nombre":"AZITROMICINA",
       "dosis":"100 mg",
       "contraindicaciones":"Contraindicado en pacientes con hipersensibilidad a la acitrocina",
       "uso":"Tratamiento de infecciones"
     },
     {
       "id":1,
+      "img":"",
       "nombre":"ABILIFY",
       "dosis":"10 mg, 15 mg, 30 mg",
       "contraindicaciones":"Los efectos secundarios comunes del aripiprazol incluyen: mareo, aturdimiento, somnolencia, exceso de saliva/babeo, vista borrosa, aumento de peso, estreñimiento, sentir la necesidad de moverse constantemente y problemas para dormir",
@@ -17,12 +19,14 @@
     },
     {
       "id":2,
+      "img":"",
       "nombre":"ABIMOX",
       "dosis":"5 mg",
       "contraindicaciones":"Dolor en el ojo, irritación en el ojo",
       "uso":"Infecciones en los ojos, conjuntivitis"
     },{
       "id":3,
+      "img":"",
       "nombre":"ACARBOSA",
       "dosis":"50 mg",
       "contraindicaciones":"Alteraciones intestinales crónicas asociadas con problemas de digestión y absorción",
@@ -30,6 +34,7 @@
     },
     {
       "id":4,
+      "img":"",
       "nombre":"ACECLOFENACO",
       "dosis":"100 mg",
       "contraindicaciones":"Hipersensibilidad conocida a cualquiera de los excipientes de esta especialidad farmacéutica, antecedente ulcera péptica/hemorragia gastrointestinal activa o recidivante, insuficiencia renal severa, tercer trimestre de la gestación",
@@ -37,6 +42,7 @@
     },
     {
       "id":5,
+      "img":"",
       "nombre":"ACETILCISTEINA",
       "dosis":"200 mg, 600 mg",
       "contraindicaciones":"Nauseas, vómito, fiebre, somnolencia, urticaria, dolor de cabeza",
@@ -44,6 +50,7 @@
     },
     {
       "id":6,
+      "img":"",
       "nombre":"ACIDO ACETILSALICILICO",
       "dosis":"300 mg, 500 mg",
       "contraindicaciones":"Contraindicado cuando existe hipersensibilidad a la fórmula, contraindicado en hemofilia, úlcera péptica activa",
@@ -51,6 +58,7 @@
     },
     {
       "id":7,
+      "img":"",
       "nombre":"ACIDO ALENDRONICO",
       "dosis":"70 mg",
       "contraindicaciones":"Anomalías esofágicas, hipersensibilidad al ácido alendrónico o a alguno de los excipientes, hipocalcemia",
@@ -58,6 +66,7 @@
     },
     {
       "id":8,
+      "img":"",
       "nombre":"ASS",
       "dosis":"100 mg, 500 mg",
       "contraindicaciones":"Ulcera gastroduodenal aguda, molestias gástricas de repetición, Diátesis hemorrágica",
@@ -65,6 +74,7 @@
     },
     {
       "id":9,
+      "img":"",
       "nombre":"ANTENOLOL",
       "dosis":"50 mg, 100 mg",
       "contraindicaciones":"Bradicardia, Shock cardiogenico, hipotensión sintomática",
